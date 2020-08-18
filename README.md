@@ -1,2 +1,2 @@
-# linear regression back-test trading system
+# java linear regression back-test trading system
 demo, dev, and testing work
